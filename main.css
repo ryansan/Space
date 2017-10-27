@@ -58,7 +58,7 @@ header{
 }
 
 footer{
-    position: fixed;
+    position: absolute; /*endra 27.10 12:58*/
     bottom: 0;
     background: white;
     height: 100px;
