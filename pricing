@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>    
+    <title> Orbyte - pricing </title>
+    <link rel="stylesheet" href="main.css" type="text/css">
+        
+    <meta charset="utf-8">
+
+</head>
+
+<body>
+    
+    <header>
+        
+        <div class="headerLogo">
+            <img src="images/Launchpad-icon.png" width="20%">
+        </div>
+        
+        <div class="order">
+            <div class="orderText"> Order </div>
+        </div>
+        
+        <div class="headerBox">
+            <p> About us</p>
+        </div>
+    
+        <div class="headerBox">
+            <p> Pricing</p>
+        </div>
+        
+        <div class="headerBox">
+            <p> How it works</p>
+        </div>
+        
+        
+        
+        
+        
+    </header>
+    
+      <div class="howTitle">
+            <h1> Pricing </h1>
+        </div>
+        <div class="howInfo">
+         <h2> A ticket will cost about the same as a normal buisiness class ticket.
+         You must have under x of co2 polution.</h2>
+        </div>
+    
+    
+
+    <footer>
+    </footer>
+    
+</body>
+
+
+
+</html>
