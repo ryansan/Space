@@ -119,3 +119,51 @@ h2{
     margin-top: -7%;
    
 }
+
+/* lagt til den 31.10 Daniel */
+
+.rader{
+    float: left;
+    width: calc(100% / 3);
+    padding: 6px;
+    box-sizing: border-box;
+}
+
+.pris{
+    list-style-type: none;
+    border: 1px solid #eee;
+    margin: 0;
+    padding: 0;
+    transition: 0.5s;
+}
+
+.pris:hover{
+    box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2)
+}
+
+.pris .noe {
+    background-color: white;
+    font size: 20px;
+}
+
+.pris .headline{
+    background-color: aqua;
+    color: white;
+    font-size: 25px;
+}
+
+.pris li{
+    border-bottom: 1px solid #eee;
+    padding: 20px;
+    text-align: center;
+}
+
+.knapp{
+    background-color: aqua;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+}
