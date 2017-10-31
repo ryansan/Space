@@ -94,6 +94,7 @@ h2{
 }
 
 .howTitle{
+    position: relative;
     margin-left: 10%;
     margin-top: 10%;
     width: 30%;
@@ -102,9 +103,19 @@ h2{
 }
 
 .howInfo{
+    position: absolute;
     margin-left: 20%;
     margin-top: 2%;
     width: 30%;
     height: 30%;
     
+}
+
+.howImage{
+    width: 50%;
+    height: 80%;
+    float: right;
+    margin-right: -9%;
+    margin-top: -7%;
+   
 }
