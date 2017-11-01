@@ -121,3 +121,10 @@ h2{
     margin-top: 3%; /* endra 12:06 31.10.2017 */
    
 }
+a{
+    text-decoration: none;
+}
+
+p:hover{
+    color: #D2DCE8;
+} 
