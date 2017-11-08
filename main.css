@@ -183,6 +183,7 @@ p:hover{
 /*lagt til av Daniel den 07.11*/
 
 .personBildet{
+   transform: rotate(90deg);
     position: absolute;
     float: left;
     left: 17%;
